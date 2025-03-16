@@ -1,4 +1,4 @@
-### Angularblog
+### Angular Quizz
 
 Este projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.3.
 
